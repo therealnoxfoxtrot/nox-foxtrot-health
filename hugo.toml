@@ -1,0 +1,6 @@
+baseURL = 'https://therealnoxfoxtrot.github.io/nox-foxtrot-health/'
+languageCode = 'nl-nl'
+title = 'Nox Foxtrot Health'
+
+[params]
+  description = 'Recepten, superfoods en habits — zonder bro-science.'
