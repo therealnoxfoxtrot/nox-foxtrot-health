@@ -1,5 +1,5 @@
 ---
-title: "Superfoods zonder hype: 6 dingen die wél werken"
+title: "Superfoods: 6 dingen die wél werken"
 date: 2026-02-21T16:50:00+01:00
 ---
 

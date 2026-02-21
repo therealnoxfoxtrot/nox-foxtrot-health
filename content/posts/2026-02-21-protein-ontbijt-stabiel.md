@@ -1,5 +1,5 @@
 ---
-title: "Stabiel ontbijt: eiwit + vezels (zonder hype)"
+title: "Stabiel ontbijt: eiwit + vezels"
 date: 2026-02-21T11:45:00+01:00
 ---
 
